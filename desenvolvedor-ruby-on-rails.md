@@ -24,6 +24,8 @@ Você fará parte da equipe de desenvolvimento do Jogo e da Ferramenta de Análi
 **Queremos alguém que:**
 
 - Adore trabalhar com web e superar desafios;
+- Realmente queira entrar de cabeça no time, pra vestir a camisa e buscar a faixa;
+- Tenha experiência com Ruby on Rails e vontade de aprender ainda mais;
 - Saiba se comunicar muito bem, que saiba escrever e se expresar da forma e na hora correta;
 - Seja super organizado, muitos projetos acontecendo e ter o controle de tudo é fundamental;
 - Queira fazer a diferença.
