@@ -30,6 +30,13 @@ Você fará parte da equipe de desenvolvimento do Jogo e da Ferramenta de Análi
 - Seja super organizado, muitos projetos acontecendo e ter o controle de tudo é fundamental;
 - Queira fazer a diferença.
 
+**Mais detalhes:**
+
+- Faixa salarial de R$ 3.200,00
+- Cartão refeição e alimentação
+- Ambiente de trabalho descontraído e confortável
+- Escritório é numa casa no bairro Mangabeiras
+
 ----------------------------------------------------------------
 
 Ficou interessado e gostaria de trabalhar com a gente? Envie um email para jobs@appprova.com.br contando um pouco sobre você, quais projetos já participou e o que gosta de fazer.
