@@ -15,7 +15,7 @@ Você fará parte da equipe de desenvolvimento do Jogo e da Ferramenta de Análi
 - Discutir novas funcionalidades e a melhor forma de implementar com foco em usabilidade e reutilização;
 - Planejar e arquitetar novas features;
 - Manter e refatorar features existentes;
-- Escrever muito CoffeeScript;
+- Brincar com CoffeeScript;
 - Escrever um teste antes de qualquer funcionalidade;
 - Contribuir ativamente para a documentação interna e projetos;
 - Ser ativo na comunidade open source;
