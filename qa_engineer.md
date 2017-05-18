@@ -23,6 +23,7 @@ Mas lembre-se que a nossa stack web é baseada em Ruby on Rails, e nossos testes
 
 Vamos avaliar se o fluxo que foi automatizado está correto, a consistência dos dados, a cobertura de casos _edge_, a organização e estrutura dos arquivos, e por aí vai...
 
+Dentre os entregáveis, um diferencial será, além do código que automatiza os testes, um documento com a descrição dos cenários, pre-requisitos, pos-requisitos e resultados obtidos.
 
 ### Prazo
 
