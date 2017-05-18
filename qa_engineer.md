@@ -26,7 +26,7 @@ Vamos avaliar se o fluxo que foi automatizado está correto, a consistência dos
 
 ### Prazo
 
-Vamos aceitar o envio de soluções até o dia 06/03/2017.
+O prazo para entrega das soluções é de 15 dias a partir da data em que você recebeu o convite por e-mail.
 
 ### Envio
 
