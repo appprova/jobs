@@ -2,7 +2,7 @@
 
 O objetivo da automação desse fluxo é acessar a plataforma do aluno, preencher o perfil corretamente, responder à todas as questões de uma atividade, e entregá-la.
 
-## Você deve acessar a plataforma através do nosso ambiente de [staging](http://stg.enem.appprova.com.br)
+## Você deve acessar a plataforma através do nosso ambiente de [staging](http://mobile.stg.appprova.com.br/)
 
 Para completar o fluxo, podem ser necessários alguns passos adiconais como:
 
