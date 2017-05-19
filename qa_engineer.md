@@ -7,9 +7,9 @@
 
 Você deve implementar o teste automatizado de dois dos três fluxos abaixo:
 
-1. Na plataforma do [Aluno](http://enem.appprova.com.br), o fluxo de responder e entregar uma atividade.
-2. Na plataforma do [Professor](http://professor.appprova.com.br), o fluxo de criar uma atividade.
-3. No aplicativo mobile, o fluxo de realizar login e responder uma questão.
+1. Na plataforma do [Aluno](http://enem.stg.appprova.com.br), o fluxo de responder e entregar uma atividade. [Detalhes](https://github.com/appprova/jobs/blob/master/qa_engineer/1_fluxo_web.md)
+2. Na plataforma do [Professor](http://stg.professor.appprova.com.br), o fluxo de criar uma atividade. [Detalhes](https://github.com/appprova/jobs/blob/master/qa_engineer/2_fluxo_web.md)
+3. No aplicativo [mobile](https://play.google.com/store/apps/details?id=com.ioasys.appprova&hl=pt), o fluxo de realizar login e responder uma questão. [Detalhes](https://github.com/appprova/jobs/blob/master/qa_engineer/3_fluxo_api.md)
 
 
 ### Ferramentas a serem utilizadas
