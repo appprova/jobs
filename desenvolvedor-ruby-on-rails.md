@@ -1,42 +1,41 @@
-# Desenvolvedor Ruby on Rails
+# Quer trabalhar na melhor empresa de educação do Brasil?
 
-O **AppProva** é uma plataforma que testa o conhecimento dos usuários através de um ambiente lúdico e desafiador. Nós utilizamos elementos de gamificação para criar um ambiente social de aprendizagem onde os usuários competem com seus amigos e colegas ao responder perguntas.
+O AppProva foi criado em 2012, cresce mais de 300% ao ano e atualmente presta serviços para as principais escolas e grupos educacionais do país. Integrando o maior grupo de educação básica do Brasil, SOMOS Educação, impactamos a vida de mais de 1.500.000 alunos, professores e educadores.
 
-O usuário consegue diagnosticar as suas dificuldades a partir de estatísticas detalhadas do desempenho em cada área de conhecimento testada, podendo também comparar seus resultado com os demais usuários. 
+---
+#
+Você fará parte do time de Tecnologia do K12 (ensino fundamental e médio), em Belo Horizonte, responsável pelos produtos de avaliação e diagnóstico do AppProva que são disponibilizados às escolas e aos alunos.
 
-Também utilizamos essas estatísticas para ajudar instituições de ensino a identificar gaps de aprendizado para poder melhorar seu processo de ensino.
+Acreditamos que o principal ativo e diferencial competitivo que existe para qualquer companhia são as pessoas e, por isso, fazemos questão de trabalhar somente com gente excelente. Se você quer gerar oportunidades para milhares de alunos e impactar a educação do Brasil, não perca a chance de juntar-se ao nosso time!
 
-**Veja o que você irá fazer:**
-
-Você fará parte da equipe de desenvolvimento do Jogo e da Ferramenta de Análises.
-
-**Mais especificamente, você irá:**
-
+#### Buscamos alguém para: 
 - Discutir novas funcionalidades e a melhor forma de implementar com foco em usabilidade e reutilização;
 - Planejar e arquitetar novas features;
 - Manter e refatorar features existentes;
-- Brincar com CoffeeScript;
-- Escrever um teste antes de qualquer funcionalidade;
-- Contribuir ativamente para a documentação interna e projetos;
-- Ser ativo na comunidade open source;
 - Trabalhar em um ambiente lean/ágil;
+- Criar e ser responsável de novos produtos que impactam a rotina de alunos e professores diariamente;
+- Sair do status quo e aprender que, aplicar ou ensinar uma nova linguagem de programação será algo do dia a dia.
 
-**Queremos alguém que:**
+#### Queremos alguém que:
+- Tenha experiência sólida com Desenvolvimento Web;
+- Já trabalhou com frameworks MVC, mais especificamente Ruby on Rails;
+- Desenvolva orientado à testes, aplicando os princípios SOLID;
+- Tenha curiosidade sobre Ruby, DB performance, Elixir, Docker, Kubernetes;
+- Conheça do mundo Javascript, como ES6, e tenha experiência com algum framework front-end (como React);
+- Saiba se comunicar, escrever e se expressar da forma e na hora correta;
+- Tenha a responsabilidade de manter e evoluir um produto;
+- Não tenha medo de aprender e aplicar isso no dia a dia;
+- Tenha a qualidade como um dos mantras, garantindo que o seu código e o código que você faz revisão seja de alta qualidade, que tenha uma boa cobertura de testes e, principalmente, que faça todo o sentido dentro das regras de negócio.
 
-- Adore trabalhar com web e superar desafios;
-- Realmente queira entrar de cabeça no time, pra vestir a camisa e buscar a faixa;
-- Tenha experiência com Ruby on Rails e vontade de aprender ainda mais;
-- Saiba se comunicar muito bem, que saiba escrever e se expresar da forma e na hora correta;
-- Seja super organizado, muitos projetos acontecendo e ter o controle de tudo é fundamental;
-- Queira fazer a diferença.
 
-**Mais detalhes:**
+##### Mais detalhes:
 
-- Faixa salarial de R$ 3.200,00
+- Faixa salarial: 2.5~6k (negociável)
 - Cartão refeição e alimentação
+- Vale combustível / Vale transporte
+- Bolsa de estudos mensal
 - Ambiente de trabalho descontraído e confortável
-- Escritório é numa casa no bairro Mangabeiras
 
-----------------------------------------------------------------
+---
 
-Ficou interessado e gostaria de trabalhar com a gente? Envie um email para jobs@appprova.com.br contando um pouco sobre você, quais projetos já participou e o que gosta de fazer.
+Ficou interessado e gostaria de trabalhar com a gente? Envie um email para antonio@appprova.com.br contando um pouco sobre você, quais projetos já participou e o que gosta de fazer.
