@@ -1,4 +1,4 @@
-# Desafio Técnico - Ruby on Rails
+# Desafio Técnico
 
 Queremos um relatório, como se fosse um _code review_, sobre a gem [action_tracker](https://github.com/appprova/action_tracker).
 A ideia é detalhar o funcionamento da gem, qual a finalidade de cada arquivo relevante, o que a gem faz, e possíveis aplicações práticas.
