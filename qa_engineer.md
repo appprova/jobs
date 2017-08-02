@@ -65,7 +65,11 @@ Além disso, nosso objetivo é automatizar cada vez mais a parte de garantia de 
 - Faixa salarial: 2.5~5k (negociável)
 - Cartão refeição e alimentação
 - Vale combustível / Vale transporte
+- Plano de Saúde top
 - Bolsa de estudos mensal
+- Horários flexíveis
 - Ambiente de trabalho descontraído e confortável
 
-**Faça parte desse time! #vqv**
+---
+
+Ficou interessado e gostaria de trabalhar com a gente? Envie um email para antonio@appprova.com.br contando um pouco sobre você, quais projetos já participou e o que gosta de fazer.

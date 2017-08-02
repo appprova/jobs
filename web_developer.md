@@ -68,7 +68,9 @@ Toda a entrega deve surpreender positivamente quem a recebe. Isso vale tanto par
 - Faixa salarial: 2.5~6k (negociável)
 - Cartão refeição e alimentação
 - Vale combustível / Vale transporte
+- Plano de Saúde top
 - Bolsa de estudos mensal
+- Horários flexíveis
 - Ambiente de trabalho descontraído e confortável
 
 ---

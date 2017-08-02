@@ -54,8 +54,8 @@ Mas outros frameworks modermos como Phoenix e Django podem ser utilizadas.
 Abaixo temos a descrição dos fluxos do usuário e do administrador, além de uma representação dos possíveis estados da questão:
 
 ### User:
-  ![web_developer/support/user_flow.md](https://github.com/appprova/jobs/blob/master/web_developer/support/user_flow.md)
+  ![web_developer/support/user_flow.md](https://github.com/appprova/jobs/blob/master/web_developer/support/user_flow.png)
 ### Admin:
-  ![web_developer/support/admin_flow.md](https://github.com/appprova/jobs/blob/master/web_developer/support/admin_flow.md)
+  ![web_developer/support/admin_flow.md](https://github.com/appprova/jobs/blob/master/web_developer/support/admin_flow.png)
 ### Questão:
-  ![web_developer/support/question_states.md](https://github.com/appprova/jobs/blob/master/web_developer/support/question_states.md)
+  ![web_developer/support/question_states.md](https://github.com/appprova/jobs/blob/master/web_developer/support/question_states.png)
