@@ -69,4 +69,4 @@ Toda a entrega deve surpreender positivamente quem a recebe. Isso vale tanto par
 
 ---
 
-Ficou interessado e gostaria de trabalhar com a gente? Envie um email para antonio@appprova.com.br contando um pouco sobre você, quais projetos já participou e o que gosta de fazer.
+Ficou interessado e gostaria de trabalhar com a gente? Envie um email para antonio@appprova.com.br contando um pouco sobre você, quais projetos já participou e o que gosta de fazer, ou então se candidate [aqui](https://appprova.recruiterbox.com/jobs/fk0fg1x).
