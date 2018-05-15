@@ -37,16 +37,14 @@ Toda a entrega deve surpreender positivamente quem a recebe. Isso vale tanto par
 ---
 ### Sobre a vaga:
 
-Estamos buscando um QA para melhorar ainda mais nosso processo de desenvolvimento. Então acreditamos que essa pessoa deverá estar alinhada com a stack que utilizamos atualmente:
+Estamos buscando um QA para melhorar ainda mais nosso processo de desenvolvimento. Então acreditamos que essa pessoa deverá estar alinhada com a stack de automação de testes que utilizamos atualmente:
 
 - Ruby on Rails [2.3/4.2]
-- CoffeScript e SASS [bootstrap, materialize, etc]
-- MySQL
 - RSpec, Capybara e seus amiguinhos
-- Capistrano 3
-- AWS Services (EC2, RDS, etc)
-- Swift 3 para iOS
-- Java com RX para Android
+- Cucumber
+- Appium 
+- Continuous Integration (Semaphore, CircleCI, Codeship, etc)
+- Ferramentas de automação de testes
 
 E utilizar seu conhecimento e experiência para:
 
