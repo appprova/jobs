@@ -26,7 +26,7 @@ Dentre os entregáveis, um diferencial será, além do código que automatiza os
 
 ### Prazo
 
-O prazo para entrega das soluções é de 15 dias a partir da data em que você recebeu o convite por e-mail.
+Não se esqueça de verificar o prazo final para a submissão da solução, no e-mail em que você recebu o convite. :wink:
 
 ### Envio
 
