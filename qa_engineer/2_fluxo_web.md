@@ -2,7 +2,7 @@
 
 O objetivo da automação desse fluxo é acessar a plataforma do professor, criar uma atividade como rascunho, e publicá-la posteriormente.
 
-## Você deve acessar a plataforma através do nosso ambiente de [staging](http://professor.mobile.stg.appprova.com.br), utilizando as credenciais abaixo:
+## Você deve acessar a plataforma através do nosso ambiente de [homologação](http://professor.homolog.fund.appprova.com.br/), utilizando as credenciais abaixo:
 
 - user: _qa@appprova.com.br_
 - password: _loveqaatappprova_
