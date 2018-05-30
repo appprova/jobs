@@ -1,13 +1,14 @@
 # Responder e entregar uma ativdade
 
-O objetivo da automação desse fluxo é acessar a plataforma do aluno, preencher o perfil corretamente, responder à todas as questões de uma atividade, e entregá-la.
+O objetivo da automação desse fluxo é acessar a plataforma do aluno, preencher o perfil corretamente, responder à todas as questões de uma atividade, e entregá-la. 
 
-## Você deve acessar a plataforma através do nosso ambiente de [staging](http://mobile.stg.appprova.com.br/)
+## Você deve acessar a plataforma através do nosso ambiente de [homologação](http://homolog.fund.appprova.com.br/)
 
 Para completar o fluxo, podem ser necessários alguns passos adiconais como:
 
 - Criação de uma conta como aluno;
 - Preenchimento do perfil corretamente (estado, cidade escola, turma - e matrícula, se aplicável);
+  - _dica: utilize a escola "AppProva Ensino Fundamental", de Belo Horizonte_
 - Aceitar os termos de uso e politica de privacidade da plataforma;
 
 Para cada passo do fluxo, podem existir casos _edge_, como por exemplo:
